@@ -1,7 +1,13 @@
 # Test_document
-| 123  | 1    | 1    |
-| ---- | ---- | ---- |
-| 123  | 1    | 1    |
-| 1    | 1    | 1    |
-| 1    | 1    | 1    |
 
+| Frequency (MHZ) | Spreading Factor                   |
+| :-------------- | :--------------------------------- |
+| 868.1           | SF7BW125 to SF12BW125              |
+| 868.3           | SF7BW125 to SF12BW125 and SF7BW250 |
+| 868.5           | SF7BW125 to SF12BW125              |
+| 867.1           | SF7BW125 to SF12BW125              |
+| 867.3           | SF7BW125 to SF12BW125              |
+| 867.5           | SF7BW125 to SF12BW125              |
+| 867.7           | SF7BW125 to SF12BW125              |
+| 867.9           | SF7BW125 to SF12BW125              |
+| 868.8           | FSK                                |
