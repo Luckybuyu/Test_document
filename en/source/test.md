@@ -28,3 +28,6 @@
 | Austria             | EU863-870 EU433  | CEPT Rec. 70-03                                              |
 | Azerbaijan          | unknown, no CEPT | EN 302 208, CEPT Rec. 70-03                                  |
 
+
+
+dfdfdfdf
