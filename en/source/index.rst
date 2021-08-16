@@ -8,5 +8,5 @@ Test documents.
     :maxdepth: 2
     
     Test <test>
-    Test2 <test2.rst>
+    Test2 <test2>
    
