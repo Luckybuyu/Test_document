@@ -4,10 +4,27 @@
 
 `English <https://heltec-automation-docs.readthedocs.io/en/latest/general/index.html>`_
 
-image:: img/test/01.png
+.. figure:: img/01.png
+
+.. figure:: img/test/01.png
 
 
-image:: img/01.png
+
+# Heltec Indoor Hotspot User Manual
+
+```warning:: After the machine is connected to the network (either by inserting the network cable before the Helium APP connection, or after configuring the Wi-Fi through the Helium APP), it will start to update the firmware of the miner and start to synchronize the blockchain. If the power is cut off at this time, a system error may occur.
+
+```
+
+```warning:: Please press and hold the shutdown button to shut down. Direct power failure may damage the eMMC.
+
+```
+
+&nbsp;
+
+## Activation process
+
+Step 1: Download Helium APP through Apple Store / Google Play.
 
 
 摘要
