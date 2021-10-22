@@ -27,6 +27,10 @@
 Step 1: Download Helium APP through Apple Store / Google Play.
 
 
+.. warning::
+    
+    After the machine is connected to the network (either by inserting the network cable before the Helium APP connection, or after configuring the Wi-Fi through the Helium APP), it will start to update the firmware of the miner and start to synchronize the blockchain. If the power is cut off at this time, a system error may occur.
+
 摘要
 ====
 
