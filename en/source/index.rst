@@ -31,9 +31,9 @@ Test documents.
    Quick Start <cubecell/quick_start>
    cubecell/lorawan/index
    AT Command List <https://resource.heltec.cn/download/CubeCell/AT_Command_list/CubeCell_Series_AT_Command_User_Manual_V0.6.pdf>
-   cubecell/dev-board/index
    cubecell/capsule-sensor/index
-   cubecell/module/index
+   Solar Panel <cubecell/solar_panel>
+   Hardware Update Log <cubecell/hardware_update_log>
    Frequently Asked Questions <cubecell/frequently_asked_questions>
    
 .. toctree::
