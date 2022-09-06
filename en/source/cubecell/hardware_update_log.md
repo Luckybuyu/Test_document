@@ -9,3 +9,4 @@
 - [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_PinoutDiagram.pdf)
 - [Schematic diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_SchematicDiagram.pdf)
 
+# HTTC - AB02 Hardware Update Logs

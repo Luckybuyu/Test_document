@@ -31,9 +31,9 @@ features:
     Quick Start <quick_start>
     LoRaWAN <lorawan/index>
     AT Command List <https://resource.heltec.cn/download/CubeCell/AT_Command_list/CubeCell_Series_AT_Command_User_Manual_V0.6.pdf>
-    CubeCell Dev-Board <dev-board/index>
     CubeCell Capsule-Sensor <capsule-sensor/index>
-    CubeCell Module <module/index>
+    Solar Panel <solar_panel>
+    Hardware Update Log <hardware_update_log>
     Frequently Asked Questions <frequently_asked_questions>
 
 Relevant Offical Resources

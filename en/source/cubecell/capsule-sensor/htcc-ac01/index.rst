@@ -11,7 +11,6 @@ CubeCell Capsule sensor HTCC-AC01 relevant documents.
     Assemble a Battery <assemble_a_battery>
     Connect Capsule Sensor to Debugger <connect_capsule_to_debugger>
     Sensor Pinout Diagram <sensor_pinout_diagram>
-    Hardware Update Logs <hardware_update_log>
     
 Relevant Offical Resources
 --------------------------

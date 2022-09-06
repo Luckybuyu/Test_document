@@ -1,5 +1,7 @@
-# Connect a Solar Panel to HTCC-AB01
+# Connect a Solar Panel to CubeCell Boards
 [简体中文](https://heltec-automation.readthedocs.io/zh_CN/latest/cubecell/dev-board/htcc-ab01/solar_panel.html)
+
+Take HTCC-AB01 as an example.
 
 Please refer to the [pinout diagram of HTCC-AB01](https://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_PinoutDiagram.pdf).
 
