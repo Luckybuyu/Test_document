@@ -41,13 +41,13 @@ Don't forget [config the parameters in "Tools" menu](https://heltec-automation-d
 
 ```
 
-## Connect to TTN
+## Connect to TTN/TTS
 
-Before that, make sure there is a LoRa Gateway active in your TTN's account.
+Before that, make sure there is a LoRa Gateway active in your [TTN](https://console.thethingsnetwork.org/)/[TTS](https://lora.heltec.org/console) account.
 
 ### Register a device
 
-Register a new device in TTN’s “Applications” page. Select the corresponding Brand, Model, Hardware Version, Firmware Version, Region.
+Register a new device in TTN or TTS “Applications” page. Select the corresponding Brand, Model, Hardware Version, Firmware Version, Region.
 
 ![](img/connect_to_server/16.png)
 
@@ -74,10 +74,6 @@ After registration is complete, if all is well, you will see the device active.
 ![](img/connect_to_server/22.png)
 
 &nbsp;
-
-## Connect to HelTec Test Server
-
-HelTec test server is based on TTN, its usage is the same as TTN, please refer to: [Connect to TTN]().
 
 &nbsp;
 

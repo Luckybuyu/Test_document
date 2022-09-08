@@ -9,11 +9,11 @@ Before all operation, make sure the HT-M01S is runing well . If not, please refe
 
 &nbsp;
 
-## Connect to TTN
+## Connect to TTN/TTS
 
 ### Register a LoRa gateway in TTN
 
-Select a cluster in the [console](https://console.thethingsnetwork.org/) page to start adding devices and gateways.
+Select a cluster in the [TTN console](https://console.thethingsnetwork.org/) page to start adding devices and gateways. Or start adding devices and gateways in [TTS console](https://lora.heltec.org/console).
 
 ![](img/connect_to_server/01.png)
 
@@ -78,9 +78,3 @@ In the HT-M01S gateway, the server address, port, frequency band, and channel ne
 View gateway status, it is runing:
 
 ![](img/connect_to_server/07.png)
-
-&nbsp;
-
-## Connect to the HelTec Test Server
-
-HelTec test server is based on TTN, its usage is the same as TTN, please refer to: [Connect to TTN]().
