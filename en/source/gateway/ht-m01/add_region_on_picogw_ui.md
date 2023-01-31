@@ -21,8 +21,6 @@ But PicoGW_UI only provided four region support by default.
 
 Now, the PicoGW_UI will work on the definition of `global_conf.json`.
 
-
-
 &nbsp;
 
 ## External resources

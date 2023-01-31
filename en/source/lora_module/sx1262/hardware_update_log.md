@@ -1,0 +1,87 @@
+# Hardware Update Logs
+[简体中文](https://heltec-automation.readthedocs.io/zh_CN/latest/cubecell/dev-board/htcc-ab01/hardware_update_log.html)
+
+## HTTC - AB01 Hardware Update Logs
+
+### V1
+
+![](img/hardware_update_log/01.png)
+
+- First release
+- 2017-6-1 public sale
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_PinoutDiagram.pdf)
+- [Schematic diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_SchematicDiagram.pdf)
+
+## HTTC - AB02 Hardware Update Logs
+
+### V1
+
+![](img/hardware_update_log/02.png)
+
+- First release
+- 2020-04-30 public sale
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02/HTCC-AB02_PinoutDiagram.pdf)
+- [Schematic diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02/HTCC-AB02_SchematicDiagram.pdf)
+
+## HTTC - AB02A Hardware Update Logs
+
+### V1
+
+![](img/hardware_update_log/03.png)
+
+- First release
+- 2020-04-30 public sale
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02A/HTCC-AB02A_PinoutDiagram.pdf)
+- [Schematic diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02A/HTCC-AB02A_SchematicDiagram.pdf)
+
+## HTTC - AB02S Hardware Update Logs
+
+### V1.0
+
+![](img/hardware_update_log/04.png)
+
+- First release.
+- 2020-04-30 public sale.
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_PinoutDiagram.pdf)
+- [Schematic diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_SchematicDiagram.pdf)
+
+### V1.0.1
+
+- 2020-10-08 public sale.
+- Change the GPS indicator pin from IO8 to IO12.
+- [Pinout diagram of V1.0.1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_PinoutDiagram.pdf)
+
+- [Schematic diagram of V1.0.1](https://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_SchematicDiagram_V1.1.pdf)
+
+### V1.1
+
+![](img/hardware_update_log/05.png)
+
+- 2021-03-28 public sale.
+- Replace the GPS module from AIR530 to AIR530Z to further improve performance and optimize low power consumption.
+- Optimize the circuit and optimize the PCB layout.
+- [Pinout diagram of V1.1](http://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_PinoutDiagram.pdf)
+- [Schematic diagram of V1.1](https://resource.heltec.cn/download/CubeCell/HTCC-AB02S/HTCC-AB02S_SchematicDiagram_V1.1.pdf)
+
+## HTTC - AM01 Hardware Update Logs
+
+**HTCC-AM01 only have ASR6501 and RF relevant circuit inside. In order to program it, need connect to an external UART-USB bridge. CH340G, CP2102 etc.**
+
+### V1
+
+- First release
+- 2017-6-1 public sale
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AM01_Module/HTCC-AM01_PinoutDiagram.pdf)
+
+## HTTC - AM02 Hardware Update Logs
+
+**HTCC-AM02 only have ASR6502 and RF relevant circuit inside. In order to program it, need connect to an external UART-USB bridge. CH340G, CP2102 etc.**
+
+### V1
+
+![](img/hardware_update_log/06.png)
+
+- First release
+- 2020-04-30 public sale
+- [Pinout diagram of V1](http://resource.heltec.cn/download/CubeCell/HTCC-AM02_Module/HTCC-AM02_PinoutDiagram.pdf)
+

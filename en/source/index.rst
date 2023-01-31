@@ -3,6 +3,14 @@ Heltec Automation Docs Page
 
 Test documents.
 
+.. only:: esp32
+
+    * Wi-Fi (2.4 GHz band)
+    * Bluetooth
+    * Dual high performance Xtensa? 32-bit LX6 CPU cores
+    * Ultra Low Power co-processor
+    * Multiple peripherals
+
 .. toctree::
    :hidden:
    :caption: Language
@@ -35,6 +43,21 @@ Test documents.
    Solar Panel <cubecell/solar_panel>
    Hardware Update Log <cubecell/hardware_update_log>
    Frequently Asked Questions <cubecell/frequently_asked_questions>
+   
+.. toctree::
+   :hidden:
+   :caption: ESP32 + LoRa
+
+   esp32/index
+   Quick Start <esp32/quick_start>
+   esp32/lorawan/index
+   Maximum Distance Test <esp32/distance_test>
+   esp32/wifi_lora_32/index
+   esp32/wireless_stick/index
+   esp32/wireless_stick_lite/index
+   esp32/wireless_shell/index
+   esp32/wireless_bridge/index
+   Frequently Asked Questions <esp32/frequently_asked_questions>
    
 .. toctree::
     :maxdepth: 2

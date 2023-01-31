@@ -5,7 +5,7 @@
 
 This article aims to describe how to connect [HT-M01S (Rev. 2.0) Gateway](https://heltec.org/project/ht-m01s-v2/) to a LoRa server, such as [TTN](https://www.thethingsnetwork.org/)/[TTS](https://lora.heltec.org/), [ChirpStack](https://www.chirpstack.io/), which facilitates secondary development and rapid deployment of LoRa devices.
 
-Before all operation, make sure the HT-M01S is runing well . If not, please refer to this [HT-M01S Quick Start](https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01s/quick_start.html) document.
+Before all operation, make sure the HT-M01S is runing well . If not, please refer to this [HT-M01S (Rev. 2.0)  Quick Start](https://docs.heltec.org/en/gateway/ht-m01s_v2/quick_start.html) document.
 
 &nbsp;
 
