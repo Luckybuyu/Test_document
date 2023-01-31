@@ -9,7 +9,8 @@ Test documents.
     * Ultra Low Power co-processor
     * Multiple peripherals
     
-    
+.. only:: 123
+
     * `TTN <https://www.thethingsnetwork.org/>`_.
     * `ChirpStack <https://www.chirpstack.io/>`_, need to be deployed on a server.
     * `TTN <https://www.thethingsnetwork.org/>`_, Reday to use.
